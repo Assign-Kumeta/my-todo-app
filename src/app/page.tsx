@@ -40,6 +40,9 @@ export default function Home() {
           <h1 className="text-3xl font-bold text-black text-center">
             リマインダー
           </h1>
+          <h2 className="text-1xl font-bold text-black text-center">
+            サブタイトル
+          </h2>
         </div>
       </div>
 
